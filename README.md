@@ -25,3 +25,5 @@
 - https://highon.coffee
 - https://clig.dev
 - https://37signals.com
+- https://www.w3.org/WAI/ARIA/apg/patterns/
+- https://www.framer.com/docs/introduction/
