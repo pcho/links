@@ -21,6 +21,12 @@
 - https://www.designsystems.com/open-design-systems/
 - https://www.useronboard.com/user-onboarding-teardowns/
 - https://uxtools.co/challenges/
+- https://screenlane.com
+- https://lawsofux.com/
+
+## TailwindCSS
+- https://tailwind-elements.com
+- https://flowbite.com/docs/getting-started/quickstart/
 
 ## Other
 - https://highon.coffee
