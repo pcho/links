@@ -35,3 +35,7 @@
 - https://www.w3.org/WAI/ARIA/apg/patterns/
 - https://www.framer.com/docs/introduction/
 - https://www.inkandswitch.com/
+- https://www.snowpeak.com/collections/takibi-fire-grill
+- https://www.alu-cab.com/product/gen-3-r-expedition-tent/
+- https://ourworldindata.org/country/poland
+
