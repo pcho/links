@@ -38,4 +38,5 @@
 - https://www.snowpeak.com/collections/takibi-fire-grill
 - https://www.alu-cab.com/product/gen-3-r-expedition-tent/
 - https://ourworldindata.org/country/poland
-
+- https://lambdalabs.com/service/gpu-cloud
+- https://playgroundai.com/profile/cl93lzi0e46193201s6wmgkszzq
